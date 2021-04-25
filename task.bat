@@ -1,0 +1,1 @@
+C:\ProgramData\Anaconda3\python.exe "D:\tweepy\covid-daily.py" pause
